@@ -125,5 +125,23 @@ skin/frontend/default/modern/
 skin/frontend/enterprise
 skin/install/
 var/
+shell/
+media/
+lib/
+dev/
+doc/
+app/code/community/
+js/
+skin/adminhtml/
+app/design/adminhtml/
+.idea/
+composer.json
+modman
+readme.md
+phpcs.xml
+.htaccess
+changelog.md
+scheduler_cron.sh
+app/bootstrap.php
 
 # Created by .ignore support plugin (hsz.mobi)
