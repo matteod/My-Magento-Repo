@@ -14,7 +14,7 @@ app/design/frontend/default/iphone/
 app/design/frontend/default/modern/
 app/design/frontend/enterprise/default
 app/design/install/
-app/etc/modules/Enterprise_*
+app/etc/modules/Cm_RedisSession.xml
 app/etc/modules/Mage_All.xml
 app/etc/modules/Mage_Api.xml
 app/etc/modules/Mage_Api2.xml
